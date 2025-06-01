@@ -32,7 +32,7 @@ Implements a MUX-controlled D Flip-Flop that updates output on the rising edge o
 
 ### ⬇️ Waveform Output
 
-![MUX + DFF Waveform](./waveform_2to1_dff.png)
+![2:1 MUX Waveform](./waveform_2to1_dff.png)
 
 ---
 ## ③ b) D Flip-Flop with Clock Control
