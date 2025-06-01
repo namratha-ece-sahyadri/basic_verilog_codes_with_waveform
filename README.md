@@ -47,7 +47,7 @@ Implements a MUX-controlled D Flip-Flop that updates output on the rising edge o
 ## ④ 4-bit Up/Down Counter
 
 **Files:** [`up_down_counter.v`](./up_down_counter.v), [`tb_up_down_counter.v`](./tb_up_down_counter.v)  
-**Files:** `up_down_counter.v`, `tb_up_down_counter.v`  
+
 Counts up or down based on a control signal. Includes synchronous reset.
 
 ### ⬇️ Waveform Output
