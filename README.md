@@ -25,17 +25,24 @@ Implements a 4-to-1 multiplexer using a `case` statement.
 ---
 
 ## ③ a) 2:1 MUX and  
-## ③ b) D Flip-Flop with Clock Control
+
 
 **Files:** `mux_2to1_dff.v`, `tb_mux_2to1_dff.v`  
 Implements a MUX-controlled D Flip-Flop that updates output on the rising edge of the clock.
 
 ### ⬇️ Waveform Output
 
-![MUX + DFF Waveform](./waveform_mux_dff.png)
+![MUX + DFF Waveform](./waveform_2to1_dff.png)
 
 ---
+## ③ b) D Flip-Flop with Clock Control
 
+**Files:** `mux_dff.v`, `tb_mux_dff.v`  
+Implements a MUX-controlled D Flip-Flop that updates output on the rising edge of the clock.
+
+### ⬇️ Waveform Output
+
+![MUX + DFF Waveform](./waveform_mux_dff.png)
 ## ④ 4-bit Up/Down Counter
 
 **Files:** `up_down_counter.v`, `tb_up_down_counter.v`  
